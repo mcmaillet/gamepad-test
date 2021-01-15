@@ -1,0 +1,8 @@
+#button-log {
+  overflow: auto;
+  height: 500px;
+}
+
+.pressed {
+  background-color: #f00;
+}

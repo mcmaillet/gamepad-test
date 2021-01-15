@@ -1,0 +1,16 @@
+{
+  "name": "Go Websocket Gamepad Demo",
+  "description": "Go websocket gamepad demo application.",
+  "keywords": [
+    "streaming",
+    "redis",
+    "go",
+    "websocket",
+    "gamepad"
+  ],
+  "website": "http://github.com/mcmaillet/gamepad-test",
+  "repository": "http://github.com/mcmaillet/gamepad-test",
+  "addons": [
+    "heroku-redis"
+  ]
+}
